@@ -1,5 +1,0 @@
-# Ignore files/folder to be committed
-*.log
-/target/
-/.idea/
-/logs/
