@@ -3,4 +3,9 @@
 1. Java Junit
 2. Maven: Maven is a build tool
 
-    Life Cycle: Validate, Compile, Test, Verify, Install, Package, Deploy, Clean
+   Life Cycle: Validate, Compile, Test, Verify, Install, Package, Deploy, Clean
+3. References
+
+    3.1: [VTI Academy Docs](https://vti.com.vn/vi/)
+
+    3.2: https://docs.junit.org/5.5.0/user-guide/
